@@ -14,7 +14,7 @@
 
 :small_blue_diamond: [Modelo Conceitual](#Modelo-conceitual-page_with_curl)
 
-:small_blue_diamond: [Layout](#Layoutou-Deploy--da-Aplicação-mag_right)
+:small_blue_diamond: [Layout](#Layout-mag_right)
 
 :small_blue_diamond: [Como rodar a aplicação](#como-rodar-a-aplicação-arrow_forward)
 
@@ -38,14 +38,18 @@ O projeto elaborado tem com foco em verificar se a comunicação entre os compon
 
 :heavy_check_mark: Deletar recurso. 
 
-# Layout ou Deploy da Aplicação :mag_right:
+# Layout:mag_right:
 
 - Endpoints:
 
-![](https://github.com/4lmeida/challenge-API-CRUD/blob/main/src/assets/api-crud.gif)
+![](https://github.com/4lmeida/challenge-TDD-eventy-city/blob/main/src/assets/challenge-tdd-event-city-post.gif)
+
+- Testes:
+
+![](https://github.com/4lmeida/challenge-TDD-eventy-city/blob/main/src/assets/challenge-tdd-event-city-test.gif)
 
 # Modelo conceitual :page_with_curl:
-![Modelo Conceitual](https://github.com/4lmeida/challenge-API-CRUD/blob/main/src/assets/diagramaClient.png)
+![Modelo Conceitual](https://github.com/4lmeida/challenge-TDD-eventy-city/blob/main/src/assets/diagram-event-city.png)
 
 ## Linguagens, dependencias e libs utilizadas :books:
 - [JAVA](https://www.java.com/pt-BR/)
@@ -62,10 +66,10 @@ Pré-requisitos: Java 17
 
 ```bash
 # clonar repositório
-git clone https://github.com/4lmeida/challenge-API-CRUD
+https://github.com/4lmeida/challenge-TDD-eventy-city.git
 
-# entrar na pasta do projeto challenge-API-CRUD
-cd challenge-API-CRUD
+# entrar na pasta do projeto challenge-TDD-eventy-city
+cd challenge-TDD-eventy-city
 
 # executar o projeto
 ./mvnw spring-boot:run
@@ -77,6 +81,6 @@ cd challenge-API-CRUD
 
 ## Licença 
 
-The [MIT License]()(MIT)
+The [MIT License](https://github.com/4lmeida/challenge-TDD-eventy-city/blob/main/License)(MIT)
 
 Copyright :copyright: 2023 - TDD de CRUD
