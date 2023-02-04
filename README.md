@@ -20,7 +20,7 @@
 
 # Sobre o projeto :open_file_folder:
 
-O TDD de CRUD é um projeto para avaliar os fundamentos dos testes automatizados que a escola [DevSuperior](https://devsuperior.com.br/cursos) passa como desafio para avançar no curso.
+O TDD de CRUD é um projeto para avaliar a implementação dos testes, e também os fundamentos aplicados nos testes automatizados que a escola [DevSuperior](https://devsuperior.com.br/cursos) passa como desafio para avançar no curso.
 
 <p>
 O projeto elaborado tem com foco em verificar se a comunicação entre os componentes da aplicação, e também recursos externos, estão interagindo entre si corretamente.
